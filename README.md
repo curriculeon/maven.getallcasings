@@ -1,23 +1,14 @@
 # Get All Possible Casings
 
-* **Objective** - To create a product...
-* **Purpose** - To gain familiarity the following features...
+* **Objective** - To aggregate _utility methods_ to define a `AllCasings.getAllCasings` method.
+* **Purpose** - To gain familiarity the following features:
+  * `Ranges`
+  * `PowerSets`
+  * `Permutations`
+  * `Subsets`
 
 
 
-
-## Instructions
-
-
-
-### StringUtils
-* **Description**
-  * The purpose of this class is to aggregate _utility methods_ to define a `getAllCasings` method.
-* **Methods to Complete**
-  * `Collection<String> getAllCasings(String)`
-  * `String upperCaseIndices(String, Integer...)`
-  * `String insertAtIndex(String, String, Integer)`
-  * `String replaceAtIndex(String, Character, Integer)`
 
 
 
